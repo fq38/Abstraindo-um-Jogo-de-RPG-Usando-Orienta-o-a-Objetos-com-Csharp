@@ -1,0 +1,16 @@
+c:\Users\admin\Documents\Aprojeto\Abstraindo-um-Jogo-de-RPG-Usando-Orientação-a-Objetos-com-Csharp\bin\Debug\net5.0\Abstraindo-um-Jogo-de-RPG-Usando-Orientação-a-Objetos-com-Csharp.exe
+c:\Users\admin\Documents\Aprojeto\Abstraindo-um-Jogo-de-RPG-Usando-Orientação-a-Objetos-com-Csharp\bin\Debug\net5.0\Abstraindo-um-Jogo-de-RPG-Usando-Orientação-a-Objetos-com-Csharp.deps.json
+c:\Users\admin\Documents\Aprojeto\Abstraindo-um-Jogo-de-RPG-Usando-Orientação-a-Objetos-com-Csharp\bin\Debug\net5.0\Abstraindo-um-Jogo-de-RPG-Usando-Orientação-a-Objetos-com-Csharp.runtimeconfig.json
+c:\Users\admin\Documents\Aprojeto\Abstraindo-um-Jogo-de-RPG-Usando-Orientação-a-Objetos-com-Csharp\bin\Debug\net5.0\Abstraindo-um-Jogo-de-RPG-Usando-Orientação-a-Objetos-com-Csharp.runtimeconfig.dev.json
+c:\Users\admin\Documents\Aprojeto\Abstraindo-um-Jogo-de-RPG-Usando-Orientação-a-Objetos-com-Csharp\bin\Debug\net5.0\Abstraindo-um-Jogo-de-RPG-Usando-Orientação-a-Objetos-com-Csharp.dll
+c:\Users\admin\Documents\Aprojeto\Abstraindo-um-Jogo-de-RPG-Usando-Orientação-a-Objetos-com-Csharp\bin\Debug\net5.0\ref\Abstraindo-um-Jogo-de-RPG-Usando-Orientação-a-Objetos-com-Csharp.dll
+c:\Users\admin\Documents\Aprojeto\Abstraindo-um-Jogo-de-RPG-Usando-Orientação-a-Objetos-com-Csharp\bin\Debug\net5.0\Abstraindo-um-Jogo-de-RPG-Usando-Orientação-a-Objetos-com-Csharp.pdb
+c:\Users\admin\Documents\Aprojeto\Abstraindo-um-Jogo-de-RPG-Usando-Orientação-a-Objetos-com-Csharp\obj\Debug\net5.0\Abstraindo-um-Jogo-de-RPG-Usando-Orientação-a-Objetos-com-Csharp.csproj.AssemblyReference.cache
+c:\Users\admin\Documents\Aprojeto\Abstraindo-um-Jogo-de-RPG-Usando-Orientação-a-Objetos-com-Csharp\obj\Debug\net5.0\Abstraindo-um-Jogo-de-RPG-Usando-Orientação-a-Objetos-com-Csharp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\admin\Documents\Aprojeto\Abstraindo-um-Jogo-de-RPG-Usando-Orientação-a-Objetos-com-Csharp\obj\Debug\net5.0\Abstraindo-um-Jogo-de-RPG-Usando-Orientação-a-Objetos-com-Csharp.AssemblyInfoInputs.cache
+c:\Users\admin\Documents\Aprojeto\Abstraindo-um-Jogo-de-RPG-Usando-Orientação-a-Objetos-com-Csharp\obj\Debug\net5.0\Abstraindo-um-Jogo-de-RPG-Usando-Orientação-a-Objetos-com-Csharp.AssemblyInfo.cs
+c:\Users\admin\Documents\Aprojeto\Abstraindo-um-Jogo-de-RPG-Usando-Orientação-a-Objetos-com-Csharp\obj\Debug\net5.0\Abstraindo-um-Jogo-de-RPG-Usando-Orientação-a-Objetos-com-Csharp.csproj.CoreCompileInputs.cache
+c:\Users\admin\Documents\Aprojeto\Abstraindo-um-Jogo-de-RPG-Usando-Orientação-a-Objetos-com-Csharp\obj\Debug\net5.0\Abstraindo-um-Jogo-de-RPG-Usando-Orientação-a-Objetos-com-Csharp.dll
+c:\Users\admin\Documents\Aprojeto\Abstraindo-um-Jogo-de-RPG-Usando-Orientação-a-Objetos-com-Csharp\obj\Debug\net5.0\ref\Abstraindo-um-Jogo-de-RPG-Usando-Orientação-a-Objetos-com-Csharp.dll
+c:\Users\admin\Documents\Aprojeto\Abstraindo-um-Jogo-de-RPG-Usando-Orientação-a-Objetos-com-Csharp\obj\Debug\net5.0\Abstraindo-um-Jogo-de-RPG-Usando-Orientação-a-Objetos-com-Csharp.pdb
+c:\Users\admin\Documents\Aprojeto\Abstraindo-um-Jogo-de-RPG-Usando-Orientação-a-Objetos-com-Csharp\obj\Debug\net5.0\Abstraindo-um-Jogo-de-RPG-Usando-Orientação-a-Objetos-com-Csharp.genruntimeconfig.cache
